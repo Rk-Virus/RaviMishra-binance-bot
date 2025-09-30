@@ -1,0 +1,11 @@
+Trading session ended at 2025-10-01 02:02:38.943547
+Trading session ended at 2025-10-01 02:04:42.682609
+No balance found for BTCUSDT
+Trading session ended at 2025-10-01 02:08:33.005006
+No balance found for BTCUSDT
+Trading session ended at 2025-10-01 02:09:20.077598
++-------+-------+--------+-------+
+| Asset | Free  | Locked | Total |
++-------+-------+--------+-------+
+|  BTC  | 0.989 |  0.0   | 0.989 |
++-------+-------+--------+-------+
